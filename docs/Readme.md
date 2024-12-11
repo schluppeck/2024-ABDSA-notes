@@ -1,5 +1,12 @@
 # Quarto demo
 
+## `ipynb` example
+
+
+- markdown is everywhere. Especially also on `github`!
+- an `ipynb` notebook converted to [html format](./test_quarto.html)
+- ... or as [PDF notes?!](./test_quarto.pdf)
+
 ## A couple of rendered documents
 
 - [revealjs presentation](./revealjs-slides.html)
