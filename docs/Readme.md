@@ -15,4 +15,6 @@
 
 ... and you can explore more formats [on the quarto documentationpage](https://quarto.org/docs/output-formats/all-formats.html)
 
-  
+## back to repo
+
+[link to github repo](https://github.com/schluppeck/2024-ABDSA-notes)
