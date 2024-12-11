@@ -37,3 +37,7 @@ Using pandas, seaborn, and friends.
 - markdown is everywhere. Especially also on `github`!
 - an `ipynb` notebook converted to [html format](./test_quarto.html)
 - ... or as [PDF notes?!](./test_quarto.pdf)
+
+## back to repo
+
+[link to github repo](https://github.com/schluppeck/2024-ABDSA-notes)
