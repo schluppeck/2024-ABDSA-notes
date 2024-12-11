@@ -35,3 +35,5 @@ Using pandas, seaborn, and friends.
 ## Making documents
 
 - markdown is everywhere. Especially also on `github`!
+- an `ipynb` notebook converted to [html format](./test_quarto.html)
+- ... or as [PDF notes?!](./test_quarto.pdf)

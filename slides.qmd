@@ -1,0 +1,38 @@
+---
+title: "Slides"
+author: "Denis Schluppeck"
+date: 2024-12-11
+date-format: iso
+self-contained: true
+format: 
+    revealjs: default
+    pptx: default
+    html: 
+        output-file: slide-notes      
+---
+
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat Kenyan fruit
+- Drink *lots of* coffee
+
+# In the afternoon
+
+![](brackenhurst.jpg)
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
